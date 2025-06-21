@@ -44,9 +44,6 @@ If you want, you can download the `.m3u` file and run it in your own app.
 
 ---
 
-If you want, I can also create this Markdown file and the Bengali text as a `.txt` or `.md` file. Let me know!
-
-
 # ⚠️ Disclaimer
 
 This repository is intended for educational and testing purposes only.
