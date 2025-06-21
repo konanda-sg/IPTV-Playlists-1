@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+  window.location.href = "https://t.me/bdixtv_official"
+  // setTimeout(function() {
+  //   window.location.href = "https://t.me/HTLivesm3u";
+  // }, 0.1); // 3000ms = 3 seconds
+</script>
+
+</head>
+<body>
+    <div class="loader">
+       <span></span>
+       <span></span> 
+       <span></span>
+       <span></span>
+    </div>
+</body>
+</html>
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" Star 4k" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",   Star 4k
+https://bdixtv.life/ipl.php?id=662136
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gVjqSh0/Red-Abstract-Live-Stream-Free-Logo-20250309-192127-0002.png" group-title="ð—ð—¢ð—œð—¡ ð—¢ð—¨ð—¥ ð—§ð—˜ð—Ÿð—˜ð—šð—¥ð—”ð— ", @bdixtv_official
+https://bdixtv.short.gy/bdixtv_official
+#EXTINF:-1 tvg-id="1540040219" tvg-name="field view" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", FIELD VIEW
+https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=field_view_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="stump cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", STUMP CAM
+https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=stump_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="hero cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", HERO CAM
+https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=hero_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name="batter cam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket", BATTER CAM
+https://pstvplaylive.online/2025/ps_ipl-liv.m3u8?ps=batter_cam
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" malayalam" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  MALAYALAM
+https://bdixtv.life/ipl.php?id=662142
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" bhojpuri" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  BHOJPURI
+https://bdixtv.life/ipl.php?id=662145
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" haryanvi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  HARYANVI
+https://bdixtv.life/ipl.php?id=662144
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" kannada" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",   KANNADA
+https://bdixtv.life/ipl.php?id=662134
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" gujrati" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  GUJRATI 
+https://bdixtv.life/ipl.php?id=662137
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" telugu" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  TELUGU 
+https://bdixtv.life/ipl.php?id=662135
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" tamil" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  TAMIL
+https://bdixtv.life/ipl.php?id=662147
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" bangla" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  BANGLA 
+https://bdixtv.life/ipl.php?id=662143
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" hindi" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  HINDI
+https://bdixtv.life/ipl.php?id=662150
+#EXTINF:-1 tvg-id="1540040219" tvg-name=" english" tvg-language="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="Cricket",  ENGLISH
+https://bdixtv.life/ipl.php?id=662151
