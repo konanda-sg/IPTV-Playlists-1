@@ -1,0 +1,49 @@
+#EXTM3U
+# Movie Channel
+#EXTINF:-1 tvg-id="190" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema-2.png" group-title="Movie Channel",Zee Anmol Cinema 2
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
+
+#EXTINF:-1 tvg-id="176" tvg-name="Zee Cinema HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="Movie Channel",Zee Cinema HD
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeecinemahd
+
+#EXTINF:-1 tvg-id="108" tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Movie Channel",Colors Bangla Cinema
+https://newhub247.store/wp78174/live.m3u8?id=1657
+
+#EXTINF:-1 tvg-id="107" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Movie Channel",Zee Bangla Cinema
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeebanglacinema
+
+#EXTINF:-1 tvg-id="38" tvg-name="Sony PIX HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png" group-title="Movie Channel",Sony PIX HD
+https://news.otapp.store/lim/live.php?id=ea02096b0fbc&e=.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png" group-title="Movie Channel",Colors Cineplex Bollywood
+https://newhub247.store/wp78174/live.m3u8?id=1763
+
+#EXTINF:-1 tvg-id="34" tvg-name="Zee Classic" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-classic.png" group-title="Movie Channel",Zee Classic
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-176
+
+#EXTINF:-1 tvg-id="33" tvg-name="Colors Cineplex Superhit" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png" group-title="Movie Channel",Colors Cineplex Superhit
+https://newhub247.store/wp78174/live.m3u8?id=1450
+
+#EXTINF:-1 tvg-id="27" tvg-name="Zee Action" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="Movie Channel",Zee Action
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeeaction
+
+#EXTINF:-1 tvg-id="26" tvg-name="Zee Bollywood" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="Movie Channel",Zee Bollywood
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeeclassic
+
+#EXTINF:-1 tvg-id="24" tvg-name="Zee Anmol Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol-cinema.png" group-title="Movie Channel",Zee Anmol Cinema
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeeanmolcinema
+
+#EXTINF:-1 tvg-id="20" tvg-name="Colors Cineplex HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" group-title="Movie Channel",Colors Cineplex HD
+https://newhub247.store/wp78174/live.m3u8?id=482
+
+#EXTINF:-1 tvg-id="19" tvg-name="Zee Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd.png" group-title="Movie Channel",Zee Cinema
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-zeecinema
+
+#EXTINF:-1 tvg-id="18" tvg-name="Sony MAX" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" group-title="Movie Channel",Sony MAX
+https://news.otapp.store/lim/live.php?id=6a65854166f1&e=.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Sony Wah" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png" group-title="Movie Channel",Sony Wah
+https://newhub247.store/themes/ssd/master.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-id="14" tvg-name="Colors Infinity HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png" group-title="Movie Channel",Colors Infinity HD
+https://newhub247.store/wp78174/live.m3u8?id=1158
