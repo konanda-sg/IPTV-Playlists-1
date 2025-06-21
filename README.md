@@ -45,3 +45,25 @@ If you want, you can download the `.m3u` file and run it in your own app.
 ---
 
 If you want, I can also create this Markdown file and the Bengali text as a `.txt` or `.md` file. Let me know!
+
+
+#⚠️ Disclaimer
+
+This repository is intended for educational and testing purposes only.
+
+All streams are freely accessible from public sources on the internet.
+
+No illegal or copyrighted content is hosted.
+
+If you are a content owner and want a link removed, please open an issue.
+
+
+
+---
+
+#🤝 Contribute
+
+Have working stream links? Found a broken one?
+Contributions are welcome via Pull Requests or Issues.
+
+Let’s make IPTV streaming more accessible and reliable for everyone.
