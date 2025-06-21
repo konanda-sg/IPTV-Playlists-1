@@ -1,0 +1,235 @@
+
+#EXTM3U  x-tvg-url="CricHD BY X Fire Flix"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png" group-title="BY X fire Flix",X fire Flix
+https://raw.githubusercontent.com/HelloPeopleTv4you/live/refs/heads/main/byxfireflix/BY-X-FIRE-FLIX.mp4
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysme" tvg-name="Sky Sports Main Event" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Main Event
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysme
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskyscric" tvg-name="Sky Sports Cricket" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Cricket
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skyscric
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysact" tvg-name="Sky Sports Action" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Action
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysact
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysgol" tvg-name="Sky Sports Golf" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Golf
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysgol
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysprem" tvg-name="Sky Sports Premier League" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Premier League
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysprem
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysfott" tvg-name="Sky Sports Football" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Football
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysfott
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysare" tvg-name="Sky Sports Arena" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Arena
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysare
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysfor1" tvg-name="Sky Sports F1" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports F1
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysfor1
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskysmixx" tvg-name="Sky Sports Mix" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Mix
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysmixx
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskyspnews" tvg-name="Sky Sports News" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports News
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skyspnews
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exskystennis" tvg-name="Sky Sports Tennis" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sports Tennis
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skystennis
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exbbtsp1" tvg-name="TNT Sports 1" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", TNT Sports 1
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=bbtsp1
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exbbtsp2" tvg-name="TNT Sports 2" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", TNT Sports 2
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=bbtsp2
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exbbtsp3" tvg-name="TNT Sports 3" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", TNT Sports 3
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=bbtsp3
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exbbtespn" tvg-name="TNT Sports 4" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", TNT Sports 4
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=bbtespn
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exeurosp1" tvg-name="EuroSport 1" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", EuroSport 1
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=eurosp1
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exeurosp2" tvg-name="EuroSport 2" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", EuroSport 2
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=eurosp2
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="expremieruk" tvg-name="Viaplay Sports 1" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Viaplay Sports 1
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=premieruk
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exhdchnl2" tvg-name="Viaplay Sports 2" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Viaplay Sports 2
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=hdchnl2
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exhdchnl3" tvg-name="Viaplay Sports Xtra" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Viaplay Sports Xtra
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=hdchnl3
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exlaligauk" tvg-name="LaLiga Tv" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", LaLiga Tv
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=laligauk
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky1nz" tvg-name="Sky Sport 1 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 1 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky1nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky2nz" tvg-name="Sky Sport 2 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 2 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky2nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky3nz" tvg-name="Sky Sport 3 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 3 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky3nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky4nz" tvg-name="Sky Sport 4 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 4 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky4nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky5nz" tvg-name="Sky Sport 5 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 5 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky5nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky6nz" tvg-name="Sky Sport 6 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 6 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky6nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky7nz" tvg-name="Sky Sport 7 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 7 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky7nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky8nz" tvg-name="Sky Sport 8 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 8 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky8nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsky9nz" tvg-name="Sky Sport 9 NZ" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sky Sport 9 NZ
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=sky9nz
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsuperfotball" tvg-name="SuperSport Football" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Football
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=superfotball
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsuperpremier" tvg-name="SuperSport Premier" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Premier
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=superpremier
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsuperlaliga" tvg-name="SuperSport Laliga" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Laliga
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=superlaliga
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupersrugby" tvg-name="SuperSport Rugby" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Rugby
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supersrugby
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupergrandstand" tvg-name="SuperSport Grandstand" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Grandstand
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supergrandstand
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupertennis" tvg-name="SuperSport Tennis" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Tennis
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supertennis
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsuperactions" tvg-name="SuperSport Action" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Action
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=superactions
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupergolf" tvg-name="SuperSport Golf" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Golf
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supergolf
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupermeximo" tvg-name="SuperSport Maximo" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Maximo
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supermeximo
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox5022" tvg-name="Fox 502 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox 502 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox5022
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox503" tvg-name="Fox 503 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox 503 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox503
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox504" tvg-name="Fox 504 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox 504 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox504
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox505" tvg-name="Fox 505 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox 505 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox505
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox506" tvg-name="Fox 506 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox 506 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox506
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsuperpsl" tvg-name="SuperSport PSL" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport PSL
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=superpsl
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exwwe" tvg-name="WWE Network" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", WWE Network
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=wwe
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exptvpk" tvg-name="PTV Sports" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", PTV Sports
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=ptvpk
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exstar1in" tvg-name="Star Sports" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Star Sports
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=star1in
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exwillowusa" tvg-name="Willow Cricket HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Willow Cricket HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=willowusa
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exsupercricket" tvg-name="SuperSport Cricket HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", SuperSport Cricket HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=supercricket
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="extenspk" tvg-name="TEN Sports pk" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", TEN Sports pk
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=tenspk
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exstarhindi" tvg-name="Star Sports 1 Hindi" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Star Sports 1 Hindi
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=starhindi
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exwillowextra" tvg-name="Willow Cricket Extra" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Willow Cricket Extra
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=willowextra
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exasportshd" tvg-name="A Sports HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", A Sports HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=asportshd
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exfox501" tvg-name="Fox Cricket 501 HD" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Fox Cricket 501 HD
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox501
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exespnusa" tvg-name="ESPN US" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", ESPN US
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=espnusa
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exespn2" tvg-name="ESPN 2 US" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", ESPN 2 US
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=espn2
+
+#EXTHTTP:{"Origin":"https://stylisheleg4nt.com","Referer":"https://stylisheleg4nt.com/"}
+#EXTINF:-1 tvg-id="exten1hd" tvg-name="Sony Sports" group-title="CricHD BY X Fire Flix" tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png", Sony Sports
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=ten1hd
