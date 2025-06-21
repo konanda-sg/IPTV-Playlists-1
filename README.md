@@ -25,7 +25,6 @@ A curated collection of publicly available IPTV playlists. This repository inclu
 
 ---
 
-### 🛑 Version without Markdown in Bengali description (Use Anywhere)
 
 **IPTV Playlist Collection**
 In this project, you will find playlists in M3U format arranged for India, Pakistan, Bangladesh, Sports and OTT platforms.
