@@ -1,9 +1,9 @@
-name: Update AES256 Encrypted Token Every 20 Minutes
+name: Update Token Every 20 Minutes
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
-  workflow_dispatch:
+    - cron: '*/20 * * * *' # every 20 minutes
+  workflow_dispatch:    # allow manual run
 
 jobs:
   update-token:
@@ -13,26 +13,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Generate random token, encrypt with AES-256, and save to JSON
-      env:
-        AES_KEY: ${{ secrets.AES_KEY }}   # ASCII string, 32 chars
-        AES_IV:  ${{ secrets.AES_IV }}    # ASCII string, 16 chars
+    - name: Generate random token and update JSON
       run: |
         TOKEN=$(uuidgen)
-
-        # Convert to hex
-        KEY_HEX=$(echo -n "$AES_KEY" | xxd -p)
-        IV_HEX=$(echo -n "$AES_IV" | xxd -p)
-
-        # Encrypt
-        ENCRYPTED=$(echo -n "$TOKEN" | openssl enc -aes-256-cbc -nosalt -K "$KEY_HEX" -iv "$IV_HEX" -base64)
-
-        echo "{\"token\": \"$ENCRYPTED\"}" > token.json
+        echo "{\"token\": \"$TOKEN\"}" > token.json
 
     - name: Commit and push changes
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add token.json
-        git commit -m "Update AES-encrypted token [skip ci]" || echo "Nothing to commit"
+        git commit -m "Update token [skip ci]" || echo "Nothing to commit"
         git push
