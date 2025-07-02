@@ -1,0 +1,27 @@
+name: Update Token Every Hour
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:    # allow manual run
+
+jobs:
+  update-token:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Generate random token and update JSON
+      run: |
+        TOKEN=$(uuidgen)
+        echo "{\"token\": \"$TOKEN\"}" > token.json
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add token.json
+        git commit -m "Update token [skip ci]" || echo "Nothing to commit"
+        git push
