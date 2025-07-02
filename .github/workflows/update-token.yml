@@ -15,17 +15,20 @@ jobs:
 
     - name: Generate random token, encrypt with AES-256, and save to JSON
       env:
-        AES_KEY: ${{ secrets.AES_KEY }}   # plain UTF-8 string, e.g. 32 ASCII chars
-        AES_IV:  ${{ secrets.AES_IV }}    # plain UTF-8 string, 16 ASCII chars
+        AES_KEY: ${{ secrets.AES_KEY }}   # ASCII string, 32 chars (e.g. "12345678901234567890123456789012")
+        AES_IV:  ${{ secrets.AES_IV }}    # ASCII string, 16 chars (e.g. "1234567890123456")
       run: |
+        # Generate random token
         TOKEN=$(uuidgen)
 
-        # Convert UTF-8 strings to hex
+        # Convert ASCII to hex
         KEY_HEX=$(echo -n "$AES_KEY" | xxd -p)
         IV_HEX=$(echo -n "$AES_IV" | xxd -p)
 
+        # Encrypt using AES-256-CBC, no salt, base64 output
         ENCRYPTED=$(echo -n "$TOKEN" | openssl enc -aes-256-cbc -nosalt -K "$KEY_HEX" -iv "$IV_HEX" -base64)
 
+        # Save to token.json
         echo "{\"token\": \"$ENCRYPTED\"}" > token.json
 
     - name: Commit and push changes
