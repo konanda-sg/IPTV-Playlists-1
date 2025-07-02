@@ -1,17 +1,36 @@
-- name: Generate random token, encrypt with AES-256, and save to JSON
+name: Update AES256 Encrypted Token Every 20 Minutes
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # every 20 minutes
+  workflow_dispatch:         # allow manual run too
+
+jobs:
+  update-token:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Generate random token, encrypt with AES-256, and save to JSON
       env:
-        AES_KEY: ${{ secrets.AES_KEY }}
-        AES_IV:  ${{ secrets.AES_IV }}
+        AES_KEY: ${{ secrets.AES_KEY }}   # must be hex, 64 chars (32 bytes)
+        AES_IV:  ${{ secrets.AES_IV }}    # must be hex, 32 chars (16 bytes)
       run: |
-        # Generate a random token
+        # Generate random UUID
         TOKEN=$(uuidgen)
 
-        # Convert key and IV to hex
-        KEY_HEX=$(echo -n "$AES_KEY" | xxd -p -c 256)
-        IV_HEX=$(echo -n "$AES_IV" | xxd -p -c 256)
+        # Encrypt using AES-256-CBC; output base64
+        ENCRYPTED=$(echo -n "$TOKEN" | openssl enc -aes-256-cbc -K "$AES_KEY" -iv "$AES_IV" -base64)
 
-        # Encrypt
-        ENCRYPTED=$(echo -n "$TOKEN" | openssl enc -aes-256-cbc -K "$KEY_HEX" -iv "$IV_HEX" -base64)
-
-        # Write to JSON
+        # Save to token.json
         echo "{\"token\": \"$ENCRYPTED\"}" > token.json
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add token.json
+        git commit -m "Update AES-encrypted token [skip ci]" || echo "Nothing to commit"
+        git push
