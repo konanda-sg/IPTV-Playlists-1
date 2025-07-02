@@ -13,10 +13,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Generate random token and update JSON
+    - name: Generate random token, Base64 encode and update JSON
       run: |
         TOKEN=$(uuidgen)
-        echo "{\"token\": \"$TOKEN\"}" > token.json
+        TOKEN_BASE64=$(echo -n "$TOKEN" | base64)
+        echo "{\"token\": \"$TOKEN_BASE64\"}" > token.json
 
     - name: Commit and push changes
       run: |
