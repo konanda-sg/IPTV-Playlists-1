@@ -1,0 +1,102 @@
+#EXTM3U x-tvg-url="http://bit.ly/alluepg"
+
+#EXTINF:-1 tvg-logo="",BTV National
+http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1 tvg-logo="",Channel 9
+http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1 tvg-logo="",Gazi TV
+http://45.249.187.238:8081/hls/live5.m3u8
+#EXTINF:-1 tvg-logo="",Massraga TV
+http://45.249.187.238:8081/hls/live6.m3u8
+#EXTINF:-1 tvg-logo="",Channel I
+http://45.249.187.238:8081/hls/live7.m3u8
+#EXTINF:-1 tvg-logo="",RTV
+http://45.249.187.238:8081/hls/live1.m3u8
+#EXTINF:-1 tvg-logo="",Jamuna TV
+http://45.249.187.238:8081/hls/live2.m3u8
+#EXTINF:-1 tvg-logo="",Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
+#EXTINF:-1 tvg-logo="",Asian TV
+http://45.249.187.238:8081/hls/new4.m3u8
+#EXTINF:-1 tvg-logo="",ATN Bangla
+http://45.249.187.238:8081/hls/new20.m3u8
+#EXTINF:-1 tvg-logo="",MY TV
+http://45.249.187.238:8081/hls/new5.m3u8
+#EXTINF:-1 tvg-logo="",Bangla Vision
+http://45.249.187.238:8081/hls/new6.m3u8
+#EXTINF:-1 tvg-logo="",News 24
+http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1 tvg-logo="",Independent TV
+http://45.249.187.238:8081/hls/hdmi4.m3u8
+#EXTINF:-1 tvg-logo="",Somoy News
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+#EXTINF:-1 tvg-logo="",DBC News
+http://45.249.187.238:8081/hls/new23.m3u8
+#EXTINF:-1 tvg-logo="",Durango TV
+http://45.249.187.238:8081/hls/new3.m3u8
+#EXTINF:-1 tvg-logo="",Zee Bangla
+http://45.249.187.238:8081/hls/new8.m3u8
+#EXTINF:-1 tvg-logo="",Songit Bangla
+http://45.249.187.238:8081/hls/new7.m3u8
+#EXTINF:-1 tvg-logo="",Zee TV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
+#EXTINF:-1 tvg-logo="",And TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 tvg-logo="",Sony Sab
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 tvg-logo="",Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF:-1 tvg-logo="",And Pictures
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 tvg-logo="",UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 tvg-logo="",Star Sports 2
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="",Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="",PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+#EXTINF:-1 tvg-logo="",CNN News
+http://45.249.187.238:8081/hls/new19.m3u8
+#EXTINF:-1 tvg-logo="",BBC World News
+http://45.249.187.238:8081/hls/new19.m3u8
+#EXTINF:-1 tvg-logo="",All Jazeera
+http://45.249.187.238:8081/hls/new17.m3u8
+#EXTINF:-1 tvg-logo="",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 tvg-logo="",Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 tvg-logo="",And Flix
+http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1 tvg-logo="",Lotus Maucu
+http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-logo="",Cartoon Network
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 tvg-logo="",Disney Channel
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="",POGO
+http://45.249.187.238:8081/hls/hdmi1.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Channel
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-logo="",Mastii Music
+http://45.249.187.238:8081/hls/new12.m3u8
+#EXTINF:-1 tvg-logo="",Medina TV Bangla
+http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="",Islamic Channel 1
+http://45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1 tvg-logo="",Islamic Channel 2
+http://45.249.187.238:8081/hls/new11.m3u8
+#EXTINF:-1 tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
+
+
