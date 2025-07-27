@@ -1,0 +1,790 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Shemaroo Bollywood" tvg-type="LIVE" tvg-genre="Entertainment,Bollywood,Oldies/Adult Standards,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/poster_20240206_185306.jpg",Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Shemaroo Filmigaane" tvg-type="LIVE" tvg-genre="Music,Bollywood,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/poster_20240206_190033.jpg",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bollywood Masala" tvg-type="LIVE" tvg-genre="Entertainment,Bollywood,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/poster_20240213_192944.png",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mastiii - India's No.1 Music and Youth Channel" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg",Mastiii - India's No.1 Music and Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="9XM" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Pitaara TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/poster_20220404_171744.jpg",Pitaara TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Bharatvarsh" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-bharatvarsh/poster_20250514_172739.png",TV9 Bharatvarsh
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP News" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23011/abp-news/poster_20250207_190217.jpg",ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Majha" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Featured" tvg-logo="https://a.jsrdn.com/hls/23011/abp-majha/poster_20250207_185817.jpg",ABP Majha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Ann Channel" tvg-type="LIVE" tvg-genre="Entertainment,News,Cricket,Music Video,Infotainment,Hindi GEC,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/ann-channel/poster_20250429_232007.jpg",Ann Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ann-channel/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Vande Bharat News" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/vande-bharat-news/poster_20250429_224257.png",Vande Bharat News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tribe Tv" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Infotainment,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/tribe-tv/poster_20250429_225820.jpg",Tribe Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="News Flash" tvg-type="LIVE" tvg-genre="News,Local News,Current Affairs,Politics,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/news-flash/poster_20250429_232713.jpg",News Flash
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Hindi Khabar" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/hindi-khabar/poster_20250429_233118.jpg",Hindi Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hindi-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mahua Play" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-play/poster_20250429_233658.jpg",Mahua Play
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mahua Khabar" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-khabar/poster_20250429_234026.jpg",Mahua Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Chicas Guapas TV" tvg-type="LIVE" tvg-genre="Entertainment,Fashion,Style,Lifestyle,Spanish" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/poster_20250513_211002.jpg",Chicas Guapas TV
+https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tara Tv" tvg-type="LIVE" tvg-genre="Entertainment,Infotainment,Pop Culture,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/tara-tv/poster_20250401_184427.jpg",Tara Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Namma Bangalore" tvg-type="LIVE" tvg-genre="Entertainment,Music Video,Pop Culture,Infotainment,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/namma-bangalore/poster_20250401_183333.jpg",Namma Bangalore
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Aaj Ki Khabar" tvg-type="LIVE" tvg-genre="News,Global News,Current Affairs,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/aaj-ki-khabar/poster_20250401_175429.jpg",Aaj Ki Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Atmadarshan Tv" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Spirituality,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/atmadarshan-tv/poster_20250401_181522.jpg",Atmadarshan Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="The Unmute" tvg-type="LIVE" tvg-genre="News,Global News,Current Affairs,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/the-unmute/poster_20250401_185247.jpg",The Unmute
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-unmute/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bhakthi Siri" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Spirituality,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/bhakthi-siri/poster_20250401_190240.jpg",Bhakthi Siri
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Wild Nature" tvg-type="LIVE" tvg-genre="Travel,Nature,Outdoors,English" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/poster_20250401_214212.jpg",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Wild TV" tvg-type="LIVE" tvg-genre="Lifestyle,Nature,Outdoors,Hunting,English" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23208/wild-tv/poster_20250401_215041.jpg",Wild TV
+https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP News" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-news/poster_20250207_190217.jpg",ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Bharatvarsh" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-bharatvarsh/poster_20250514_172739.png",TV9 Bharatvarsh
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="News Nation" tvg-type="LIVE" tvg-genre="News,Current Affairs,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23184/news-nation/poster_20240807_231556.jpg",News Nation
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Vande Bharat News" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23215/vande-bharat-news/poster_20250429_224257.png",Vande Bharat News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sudarshan News" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/22994/sudarshan-news/poster_20241127_215401.jpg",Sudarshan News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Aaj Ki Khabar" tvg-type="LIVE" tvg-genre="News,Global News,Current Affairs,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23215/aaj-ki-khabar/poster_20250401_175429.jpg",Aaj Ki Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/aaj-ki-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="News Flash" tvg-type="LIVE" tvg-genre="News,Local News,Current Affairs,Politics,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23215/news-flash/poster_20250429_232713.jpg",News Flash
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Hindi Khabar" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23215/hindi-khabar/poster_20250429_233118.jpg",Hindi Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hindi-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Ganga" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Hindi News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-ganga/poster_20220103_192041.jpg",ABP Ganga
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Majha" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-majha/poster_20250207_185817.jpg",ABP Majha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Marathi" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-marathi/poster_20250409_173452.jpg",TV9 Marathi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Telugu" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-telugu/poster_20230713_174413.jpg",TV9 Telugu
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Kannada" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-kannada/poster_20241022_180751.jpg",TV9 Kannada
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Living India News" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23196/living-india-news/poster_20250317_183547.jpg",Living India News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mahua Khabar" tvg-type="LIVE" tvg-genre="News,Current Affairs,Politics,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-khabar/poster_20250429_234026.jpg",Mahua Khabar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-khabar/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Asianet Suvarna News 24x7" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23194/asianet-suvarna-news-24x7/poster_20241001_222134.jpg",Asianet Suvarna News 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/asianet-suvarna-news-24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Ananda" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-ananda/poster_20250207_184838.jpg",ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Asianet News Live: മലയാളംവാർത്തകൾ" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23194/asianet-news-live/poster_20241001_221557.jpg",Asianet News Live: മലയാളംവാർത്തകൾ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/asianet-news-live/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Bangla" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-bangla/poster_20250219_203746.jpg",TV9 Bangla
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Asmita" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-asmita/poster_20250207_185434.jpg",ABP Asmita
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV9 Gujarati" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-gujarati/poster_20230713_173146.jpg",TV9 Gujarati
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ABP Sanjha" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23011/abp-sanjha/poster_20220111_181855.jpg",ABP Sanjha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="The Unmute" tvg-type="LIVE" tvg-genre="News,Global News,Current Affairs,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23215/the-unmute/poster_20250401_185247.jpg",The Unmute
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-unmute/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TV Punjab" tvg-type="LIVE" tvg-genre="News,Regional News,Asian" group-title="Regional Language News" tvg-logo="https://a.jsrdn.com/hls/23015/tv-punjab/poster_20211203_222411.jpg",TV Punjab
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="News9Live" tvg-type="LIVE" tvg-genre="News,Politics,Current Affairs,Asian" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23129/news9live/poster_20250527_172915.jpg",News9Live
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Al Jazeera English" tvg-type="LIVE" tvg-genre="News,Current Affairs,Global News,Politics,Asian" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23137/al-jazeera-english/poster_20241008_192112.jpg",Al Jazeera English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Euronews" tvg-type="LIVE" tvg-genre="News,Global News,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/poster_20231218_175553.png",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Schwab Network" tvg-type="LIVE" tvg-genre="Finance,Business,Factual,Talk Show,News,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22849/schwab-network/poster_20240521_222955.png",Schwab Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="OAN Plus" tvg-type="LIVE" tvg-genre="News,Global News,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/poster_20210113_005550.jpg",OAN Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Africanews" tvg-type="LIVE" tvg-genre="News,Global News,African" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22886/africanews/poster_20231218_175635.png",Africanews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Al Arabiya" tvg-type="LIVE" tvg-genre="News,Regional News,Middle Eastern" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/poster_20231205_175721.jpg",Al Arabiya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Al Jazeera" tvg-type="LIVE" tvg-genre="News,Current Affairs,Global News,Politics,Asian" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23137/al-jazeera/poster_20241008_191620.jpg",Al Jazeera
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="DeFiance Media" tvg-type="LIVE" tvg-genre="Finance,Business,Factual,Talk Show,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23095/defiance-media/poster_20230717_225903.jpg",DeFiance Media
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Real Vision" tvg-type="LIVE" tvg-genre="Finance,Business,Factual,Talk Show,English" group-title="English & International News" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22769/real-vision-1/poster_20200717_232723.jpg",Real Vision
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-vision-1/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Entrepreneur" tvg-type="LIVE" tvg-genre="Business,Finance,Reality TV,Factual,Talk Show,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22851/entrepreneur-1/poster_20240521_223037.jpg",Entrepreneur
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Black Enterprise" tvg-type="LIVE" tvg-genre="Business,Finance,Reality TV,Factual,Talk Show,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/poster_20210113_193910.jpg",Black Enterprise
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/black-enterprise/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ROI TV" tvg-type="LIVE" tvg-genre="Finance,Business,Factual,Talk Show,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23040/roi-tv/poster_20220314_171646.png",ROI TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/roi-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Business Rockstars" tvg-type="LIVE" tvg-genre="Business,Finance,Entertainment,English" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22915/business-rockstars/poster_20201029_010328.jpg",Business Rockstars
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Euronews Español" tvg-type="LIVE" tvg-genre="News,Global News,Spanish" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/poster_20231218_175338.png",Euronews Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Comercio TV" tvg-type="LIVE" tvg-genre="Business,Technology,Finance,Lifestyle,News,Spanish" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23202/comercio-tv/poster_20250109_222214.png",Comercio TV
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Negocios TV" tvg-type="LIVE" tvg-genre="Finance,Factual,Talk Show,News,Spanish" group-title="English & International News" tvg-logo="https://a.jsrdn.com/hls/23130/negocios-tv/poster_20240130_181522.png",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Shemaroo Bollywood" tvg-type="LIVE" tvg-genre="Entertainment,Bollywood,Oldies/Adult Standards,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/poster_20240206_185306.jpg",Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bollywood Masala" tvg-type="LIVE" tvg-genre="Entertainment,Bollywood,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/poster_20240213_192944.png",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tabbar Hits" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Music Video,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23196/tabbar-hits/poster_20250317_183451.jpg",Tabbar Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Green Chillies TV- Zindagi ka Tadka!" tvg-type="LIVE" tvg-genre="Entertainment,Comedy,Devotional,Drama,Infotainment,Animation & Anime,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23179/green-chillies-tv/poster_20240627_214356.png",Green Chillies TV- Zindagi ka Tadka!
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sundrani Tv" tvg-type="LIVE" tvg-genre="Entertainment,Music,Movies,Pop Culture,Bollywood,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/22994/sundrani-tv/poster_20241127_220058.jpg",Sundrani Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sundrani-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Vikatan TV" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23087/vikatan-tv/poster_20230509_173210.jpg",Vikatan TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Pitaara TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/poster_20220404_171744.jpg",Pitaara TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mahua Play" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-play/poster_20250429_233658.jpg",Mahua Play
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Nakshatra Digital Tv" tvg-type="LIVE" tvg-genre="Entertainment,Music,Movies,Pop Culture,Bollywood,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/22994/nakshatra-digital-tv/poster_20241127_213754.jpg",Nakshatra Digital Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nakshatra-digital-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Masala Entertainment Plus" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23029/masala-entertainment-plus/poster_20220621_225223.jpg",Masala Entertainment Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="BritAsiaTV" tvg-type="LIVE" tvg-genre="Entertainment,Music Video,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/poster_20240521_222659.png",BritAsiaTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Haryana Beat" tvg-type="LIVE" tvg-genre="Entertainment,Music,Movies,Pop Culture,Bollywood,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/22994/haryana-beat/poster_20241127_212959.jpg",Haryana Beat
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tara Tv" tvg-type="LIVE" tvg-genre="Entertainment,Infotainment,Pop Culture,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23215/tara-tv/poster_20250401_184427.jpg",Tara Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Namma Bangalore" tvg-type="LIVE" tvg-genre="Entertainment,Music Video,Pop Culture,Infotainment,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/23215/namma-bangalore/poster_20250401_183333.jpg",Namma Bangalore
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Arré" tvg-type="LIVE" tvg-genre="Entertainment,Reality TV,Drama,Asian" group-title="Hindi & Regional Entertainment" tvg-logo="https://a.jsrdn.com/hls/22982/arre/poster_20210827_071719.png",Arré
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kids TV - Nursery Rhymes and Baby Songs" tvg-type="LIVE" tvg-genre="Music,Family/Children,Animation & Anime,English" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-ind/poster_20240521_223810.jpg",Kids TV - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ToonzKids" tvg-type="LIVE" tvg-genre="Entertainment,Family/Children,Animation & Anime,English" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kids TV India - Nursery Rhymes and Baby Songs" tvg-type="LIVE" tvg-genre="Music,Family/Children,Music Video,Asian" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg",Kids TV India - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Toon Goggles en Español" tvg-type="LIVE" tvg-genre="Entertainment,Animation & Anime,Family/Children,Spanish" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/poster_20240322_201149.png",Toon Goggles en Español
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kids TV Español Latino - Canciones Infantiles" tvg-type="LIVE" tvg-genre="Music,Family/Children,Animation & Anime,Spanish" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/poster_20230426_174326.jpg",Kids TV Español Latino - Canciones Infantiles
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/master_es.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ToonzKids niños" tvg-type="LIVE" tvg-genre="Entertainment,Family/Children,Animation & Anime,Spanish" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/poster_20231130_230419.jpg",ToonzKids niños
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Watchit Kid!" tvg-type="LIVE" tvg-genre="Entertainment,Animation & Anime,Family/Children,English" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/22915/watchit-kid/poster_20240521_223147.png",Watchit Kid!
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ToonzKids Atfal" tvg-type="LIVE" tvg-genre="Entertainment,Family/Children,Animation & Anime,Middle Eastern" group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/poster_20240521_223927.jpg",ToonzKids Atfal
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mastiii - India's No.1 Music and Youth Channel" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg",Mastiii - India's No.1 Music and Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="9XM" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Punjabi Hits" tvg-type="LIVE" tvg-genre="Music,Entertainment,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/poster_20250317_183336.jpg",Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="YRF Music" tvg-type="LIVE" tvg-genre="Music,Bollywood,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/poster_20240322_175609.jpg",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Shemaroo Filmigaane" tvg-type="LIVE" tvg-genre="Music,Bollywood,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/poster_20240206_190033.jpg",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="9X Jalwa" tvg-type="LIVE" tvg-genre="Music,Bollywood,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/poster_20230328_212825.jpg",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Saga Music" tvg-type="LIVE" tvg-genre="Music,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/poster_20240322_183946.jpg",Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Balle Balle" tvg-type="LIVE" tvg-genre="Music,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/poster_20220718_170813.png",Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Maiboli" tvg-type="LIVE" tvg-genre="Music,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/22973/maiboli/poster_20231005_183541.jpg",Maiboli
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Dabangg" tvg-type="LIVE" tvg-genre="Music,Music Video,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23199/dabangg/poster_20250324_190158.jpg",Dabangg
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Channel Divya" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23049/channel-divya/poster_20230711_170532.jpg",Channel Divya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="M+" tvg-type="LIVE" tvg-genre="Music,Music Video,Middle Eastern" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23137/m-plus/poster_20231205_180944.jpg",M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TRACE Urban" tvg-type="LIVE" tvg-genre="Music,Music Video,Contemporary Hits/Pop/Top 40,Hip Hop Music,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23073/trace-urban/poster_20230215_212353.jpg",TRACE Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TRACE UK" tvg-type="LIVE" tvg-genre="Music,Music Video,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/poster_20240627_183317.png",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="HIP HOP TV" tvg-type="LIVE" tvg-genre="Music,Entertainment,Hip Hop Music,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/hip-hop-tv/poster_20241211_000949.jpg",HIP HOP TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="FEVA MUSIC" tvg-type="LIVE" tvg-genre="Music,Music Video,Hip Hop Music,Reggae,African" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23132/feva-music/poster_20231012_211333.png",FEVA MUSIC
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="4ACETV" tvg-type="LIVE" tvg-genre="Music,Contemporary Hits/Pop/Top 40,Alternative Rock,Classic Rock,Music Video,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv/poster_20241125_195231.jpg",4ACETV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="4ACETV AFROBEAT" tvg-type="LIVE" tvg-genre="Music,Afrobeat,Music Video,African" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv-afrobeat/poster_20241125_201354.jpg",4ACETV AFROBEAT
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/4599G7ELH7ADOE9DQJK4/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="4ACETV CLASSIC HITS" tvg-type="LIVE" tvg-genre="Music,Classic Hits,Music Video,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv-classic-hits/poster_20241125_202429.jpg",4ACETV CLASSIC HITS
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="4ACETV RNB" tvg-type="LIVE" tvg-genre="Music,R&B/Soul/Funk,Music Video,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv-rnb/poster_20241125_203019.jpg",4ACETV RNB
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/F5ULR0LIVWER0I6ONXY4/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Surf Roots TV" tvg-type="LIVE" tvg-genre="Entertainment,Music Video,Lifestyle,Reggae,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23139/surf-roots-tv/poster_20240523_220436.png",Surf Roots TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="OurVinyl" tvg-type="LIVE" tvg-genre="Music,Entertainment,English" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23208/ourvinyl/poster_20250211_203649.jpg",OurVinyl
+https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="AMusic Channel" tvg-type="LIVE" tvg-genre="Music,Afrobeat,African" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/amusic-channel/poster_20241211_003014.jpg",AMusic Channel
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="La Bocina Latina" tvg-type="LIVE" tvg-genre="Music,Music Video,Contemporary Hits/Pop/Top 40,Reggae,Hip Hop Music,Spanish" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23040/la-bocina-latina/poster_20231109_214008.jpg",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TRACE Latina" tvg-type="LIVE" tvg-genre="Music,Music Video,Contemporary Hits/Pop/Top 40,Reggae,Hip Hop Music,Spanish" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/poster_20230215_212308.jpg",TRACE Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="HITS MEXICANOS" tvg-type="LIVE" tvg-genre="Music,Classic Hits,Spanish" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/hits-mexicanos/poster_20250109_231025.jpg",HITS MEXICANOS
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Rockola Television" tvg-type="LIVE" tvg-genre="Music,Classic Rock,Classic Hits,Spanish" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23195/rockola-television/poster_20250109_231902.jpg",Rockola Television
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TRACE Brazuca" tvg-type="LIVE" tvg-genre="Music,Music Video,Contemporary Hits/Pop/Top 40,Hip Hop Music,Spanish" group-title="Music" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/poster_20230215_212234.jpg",TRACE Brazuca
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sports First TV" tvg-type="LIVE" tvg-genre="Sports,News,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/poster_20250211_205729.jpg",Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="PLL Network" tvg-type="LIVE" tvg-genre="Sports,Lacrosse,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network-ww/poster_20240626_232611.jpg",PLL Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Indian Yoga & Wellness TV" tvg-type="LIVE" tvg-genre="Lifestyle,Yoga,Fitness,Asian" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23192/indian-yoga-and-wellness-tv/poster_20240924_222706.jpg",Indian Yoga & Wellness TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/indian-yoga-and-wellness-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Indian Yoga & Wellness TV Telugu" tvg-type="LIVE" tvg-genre="Lifestyle,Health,Yoga,Fitness,Asian" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23192/indian-yoga-and-wellness-tv-telugu/poster_20240924_223048.jpg",Indian Yoga & Wellness TV Telugu
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/indian-yoga-and-wellness-tv-telugu/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Outside" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,Lifestyle,Nature,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png",Outside
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Cowboy Channel" tvg-type="LIVE" tvg-genre="Sports,Reality TV,Lifestyle,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg",Cowboy Channel
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Skull Bound TV" tvg-type="LIVE" tvg-genre="Sports,Lifestyle,Travel,Reality TV,Nature,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23195/skull-bound-tv/poster_20250102_202954.jpg",Skull Bound TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Horizon Sports" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,Lifestyle,English" group-title="Sports & Games" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22705/horizon-sports/poster_20200717_232723.jpg",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sportskool TV" tvg-type="LIVE" tvg-genre="Sports,Infotainment,Lifestyle,English" group-title="Sports & Games" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22697/sportskool-tv/poster_20200226_171036.jpg",Sportskool TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportskool-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="United Fight Alliance" tvg-type="LIVE" tvg-genre="Sports,Martial Arts,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/poster_20230316_231448.png",United Fight Alliance
+https://moments.videobyte.com/api/livestreaming.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MMA Junkie" tvg-type="LIVE" tvg-genre="Sports,Martial Arts,English" group-title="Sports & Games" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22814/mma-junkie/poster_20200717_232723.jpg",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Hard Knocks" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,English" group-title="Sports & Games" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/poster_20200717_232723.jpg",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="World Poker Tour" tvg-type="LIVE" tvg-genre="Sports,Reality TV,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/poster_20231219_224337.jpg",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Adventure Sports TV" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,Nature,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22889/adventure-sports-tv/poster_20200910_004350.jpg",Adventure Sports TV
+https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="GlewedTV Yoga & Fitness" tvg-type="LIVE" tvg-genre="Entertainment,Sports,Lifestyle,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/poster_20200917_223144.jpg",GlewedTV Yoga & Fitness
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Dot Esports" tvg-type="LIVE" tvg-genre="Sports,Entertainment,Reality TV,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/poster_20200917_065551.jpg",Dot Esports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="FloRacing 24/7" tvg-type="LIVE" tvg-genre="Sports,Auto Racing,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/poster_20230808_180216.png",FloRacing 24/7
+https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="SKWAD" tvg-type="LIVE" tvg-genre="Sports,Entertainment,Reality TV,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/poster_20201005_155119.jpg",SKWAD
+https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Slopes TV" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22915/ski-tv/poster_20210308_214707.jpg",Slopes TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="SportsGrid" tvg-type="LIVE" tvg-genre="Sports,Sports Radio,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/poster_20201117_210340.jpg",SportsGrid
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Wired2fish TV" tvg-type="LIVE" tvg-genre="Sports,Lifestyle,Nature,Reality TV,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22930/wired2fish-tv/poster_20210331_171109.jpg",Wired2fish TV
+https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Wild TV" tvg-type="LIVE" tvg-genre="Lifestyle,Nature,Outdoors,Hunting,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23208/wild-tv/poster_20250401_215041.jpg",Wild TV
+https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="XFC TV" tvg-type="LIVE" tvg-genre="Sports,Martial Arts,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22915/xfc-tv/poster_20210325_232007.jpg",XFC TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Pro Football Focus" tvg-type="LIVE" tvg-genre="Sports,Sports Radio,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/poster_20210412_083442.jpg",Pro Football Focus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pro-football-focus/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MotorRacing" tvg-type="LIVE" tvg-genre="Sports,Auto Racing,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/poster_20240122_173857.jpg",MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="CampusLore Sports" tvg-type="LIVE" tvg-genre="Sports,College Sports,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/poster_20210916_225145.png",CampusLore Sports
+https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Powersports World" tvg-type="LIVE" tvg-genre="Sports,Auto Racing,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22964/powersports-world/poster_20240917_170640.jpg",Powersports World
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/MOTOAMERICA_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ACL Cornhole TV" tvg-type="LIVE" tvg-genre="Sports,Strongman,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/poster_20211103_165810.png",ACL Cornhole TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Boxing TV" tvg-type="LIVE" tvg-genre="Sports,Boxing,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/poster_20220301_212728.png",Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="FUEL TV" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/poster_20230130_180923.jpg",FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="KOZOOM TV" tvg-type="LIVE" tvg-genre="Sports,Entertainment,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23064/kozoom-tv/poster_20220531_190546.jpg",KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bleav Football" tvg-type="LIVE" tvg-genre="Sports,Sports Radio,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23091/bleav-football/poster_20221109_230427.jpg",Bleav Football
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="SportsTVPlus" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23195/sportstvplus/poster_20241119_225317.jpg",SportsTVPlus
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sports Connect" tvg-type="LIVE" tvg-genre="Sports,Sports Radio,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23181/sports-connect/poster_20230118_180911.png",Sports Connect
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Teton Gravity Research" tvg-type="LIVE" tvg-genre="Sports,Action/Adventure,Nature,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/22967/teton-gravity-research/poster_20230131_175150.jpg",Teton Gravity Research
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/teton-gravity-research/main.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MTRSPT1" tvg-type="LIVE" tvg-genre="Sports,Auto Racing,English" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Box Gamers" tvg-type="LIVE" tvg-genre="Fun & Games,Esports,Gaming,Spanish" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/poster_20250102_230325.jpg",Box Gamers
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="LifeFit by Triptic" tvg-type="LIVE" tvg-genre="Sports,Infotainment,Lifestyle,Spanish" group-title="Sports & Games" tvg-logo="https://a.jsrdn.com/hls/23024/lifefit-by-triptic/poster_20240521_223533.png",LifeFit by Triptic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Gusto TV" tvg-type="LIVE" tvg-genre="Lifestyle,Food,Travel,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg",Gusto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="DroneTV" tvg-type="LIVE" tvg-genre="Travel,Nature,Lifestyle,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="4K TRAVEL TV" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/poster_20220531_183816.jpg",4K TRAVEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Wild Nature" tvg-type="LIVE" tvg-genre="Travel,Nature,Outdoors,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/poster_20250401_214212.jpg",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="NatureStream.tv" tvg-type="LIVE" tvg-genre="Travel,Nature,Lifestyle,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/poster_20250116_192327.jpg",NatureStream.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Jyotish Duniya" tvg-type="LIVE" tvg-genre="Lifestyle,Astrology,Asian" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23190/jyotish-duniya/poster_20240924_220343.jpg",Jyotish Duniya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="CraftsyTV" tvg-type="LIVE" tvg-genre="Lifestyle,Infotainment,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/poster_20230224_000720.jpg",CraftsyTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Crafty Panda" tvg-type="LIVE" tvg-genre="Lifestyle,Infotainment,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/poster_20240129_193904.jpg",Crafty Panda
+https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="crema.tv" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Infotainment,Documentary,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22886/crematv/poster_20230911_181813.png",crema.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Cooking Panda" tvg-type="LIVE" tvg-genre="Lifestyle,Entertainment,Travel,Food,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/poster_20201006_170136.jpg",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Real Life TV" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,Food,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23077/real-life-tv/poster_20221025_173248.png",Real Life TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ChopperTown" tvg-type="LIVE" tvg-genre="Entertainment,Reality TV,Lifestyle,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/poster_20201104_205156.jpg",ChopperTown
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/choppertown/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="The Boat Show" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,Infotainment,English" group-title="Food, Travel & More" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/poster_20200129_002936.jpg",The Boat Show
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="AWE Plus" tvg-type="LIVE" tvg-genre="Lifestyle,Entertainment,Travel,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/poster_20210113_005833.jpg",AWE Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TronTV" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Travel,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/poster_20201016_172926.jpg",TronTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trontv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="IDG" tvg-type="LIVE" tvg-genre="Technology,Lifestyle,Infotainment,English" group-title="Food, Travel & More" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/poster_20191217_230246.jpg",IDG
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/idg/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Zoomer TV" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/poster_20210330_190605.jpg",Zoomer TV
+https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Dungeon TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Fantasy,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/poster_20201029_011652.jpg",Dungeon TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="BarkTV" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Reality TV,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/22964/barktv/poster_20240220_175432.png",BarkTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/barktv/barkt.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MomCave" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Comedy,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23195/momcave/poster_20241211_000232.png",MomCave
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/22G5UVCESMIOP38D3YET/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Fitness Rewind by Collage Video" tvg-type="LIVE" tvg-genre="Lifestyle,Health,Fitness,Sports,English" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23195/fitness-rewind-by-collage-video/poster_20241211_002131.jpg",Fitness Rewind by Collage Video
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/6JK51FOJE3NCVH2POB9E/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Viajar TV" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,Spanish" group-title="Food, Travel & More" tvg-logo="https://a.jsrdn.com/hls/23195/viajar-tv/poster_20250102_223332.jpg",Viajar TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Always Funny" tvg-type="LIVE" tvg-genre="Entertainment,Comedy,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/poster_20231121_180935.png",Always Funny
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Always Funny: Pranks & Fails" tvg-type="LIVE" tvg-genre="Entertainment,Comedy,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-pranks-and-fails/poster_20240521_224106.png",Always Funny: Pranks and Fails
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-pranks-and-fails/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="a-z Best Classic TV" tvg-type="LIVE" tvg-genre="Entertainment,Classic Movies,Classic TV,TV Shows,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-best-classic-tv/poster_20250205_004113.jpg",a-z Best Classic TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Cartoon Classics" tvg-type="LIVE" tvg-genre="Entertainment,Animation & Anime,Cartoon,Classic Shows,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/poster_20241119_223051.jpg",Cartoon Classics
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Ghost Dimension" tvg-type="LIVE" tvg-genre="Documentary,Reality TV,Horror,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/ghost-dimension/poster_20241023_002733.png",Ghost Dimension
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Lone Star" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Western,Classic Movies,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/poster_20240521_222837.jpg",Lone Star
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="The Holiday TV Channel" tvg-type="LIVE" tvg-genre="Entertainment,Family/Children,Classic Movies" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/poster_20241127_204326.jpg",The Holiday TV Channel
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Right Now Tv" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Infotainment,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/poster_20200612_050947.jpg",Right Now Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Humor Mill" tvg-type="LIVE" tvg-genre="Entertainment,Comedy,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/poster_20200819_235206.jpg",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MomCave" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Comedy,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/momcave/poster_20241211_000232.png",MomCave
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/22G5UVCESMIOP38D3YET/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="fw.tv by Firework" tvg-type="LIVE" tvg-genre="Entertainment,Pop Culture,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22914/fwtv/poster_20240521_223106.jpg",fw.tv by Firework
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fwtv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Revry News" tvg-type="LIVE" tvg-genre="Lifestyle,Entertainment,News,Talk Show,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22919/revry-news/poster_20240625_222020.jpg",Revry News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Revry Her" tvg-type="LIVE" tvg-genre="Lifestyle,Entertainment,Drama,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22919/revry-her/poster_20240625_222228.jpg",Revry Her
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Young Hollywood" tvg-type="LIVE" tvg-genre="Entertainment,Pop Culture,English" group-title="English Entertainment" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/poster_20200330_221709.jpg",Young Hollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Us Weekly TV" tvg-type="LIVE" tvg-genre="Entertainment,Pop Culture,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/poster_20210323_165633.jpg",Us Weekly TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/us-weekly-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kaloopy" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Sports,Music,Gaming,English" group-title="English Entertainment" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/poster_20200609_231840.jpg",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ACI On The Go" tvg-type="LIVE" tvg-genre="Entertainment,Action/Adventure,Drama,Mystery,Romance,Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/aci-on-the-go/poster_20250220_231006.jpg",ACI On The Go
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="IndieBox" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Comedy,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/poster_20241210_231747.jpg",IndieBox
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="ENCORE+" tvg-type="LIVE" tvg-genre="Entertainment,Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23064/encore/poster_20220531_185718.jpg",ENCORE+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bowery Classics" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/poster_20211018_170610.png",Bowery Classics
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Urban Action Channel" tvg-type="LIVE" tvg-genre="Entertainment,Action/Adventure,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/urban-action-channel/poster_20250205_002520.jpg",Urban Action Channel
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Comedy Classics" tvg-type="LIVE" tvg-genre="Entertainment,Classic Movies,Comedy,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/poster_20241119_223828.jpg",Comedy Classics
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Colorized.TV" tvg-type="LIVE" tvg-genre="Entertainment,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/colorizedtv/poster_20241210_234657.jpg",Colorized.TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="a-z Classic Flix" tvg-type="LIVE" tvg-genre="Entertainment,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-classic-flix/poster_20250205_005634.jpg",a-z Classic Flix
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="a-z Western Grit" tvg-type="LIVE" tvg-genre="Entertainment,Action/Adventure,Western,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-western-grit/poster_20250205_010123.jpg",a-z Western Grit
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Old West TV" tvg-type="LIVE" tvg-genre="Entertainment,Classic Movies,Western,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/23195/old-west-tv/poster_20241119_225936.jpg",Old West TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Galxy TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Fantasy,Science Fiction,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/poster_20201029_013654.jpg",Galxy
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="GlewedTV The Vault" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Classic Movies,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/poster_20200917_222919.jpg",GlewedTV The Vault
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Monarch" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Action/Adventure,Drama,English" group-title="English Movies" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/poster_20200717_232723.jpg",Monarch
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Cinepride" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/22915/cinepride/poster_20240328_232417.jpg",Cinepride
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Revry" tvg-type="LIVE" tvg-genre="Lifestyle,Entertainment,Drama,English" group-title="English Movies" tvg-logo="https://a.jsrdn.com/hls/22919/revry/poster_20240625_222508.jpg",Revry
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tribe Tv" tvg-type="LIVE" tvg-genre="Entertainment,Hindi GEC,Infotainment,Asian" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/23215/tribe-tv/poster_20250429_225820.jpg",Tribe Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Ann Channel" tvg-type="LIVE" tvg-genre="Entertainment,News,Cricket,Music Video,Infotainment,Hindi GEC,Asian" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/23215/ann-channel/poster_20250429_232007.jpg",Ann Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ann-channel/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="True History" tvg-type="LIVE" tvg-genre="Education,Infotainment,Documentary,History,English" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg",True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Goalcast" tvg-type="LIVE" tvg-genre="Entertainment,Infotainment,Documentary,English" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/23031/goalcast/poster_20220302_184006.jpg",Goalcast
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/goalcast/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Documentary+" tvg-type="LIVE" tvg-genre="Education,Infotainment,Documentary,History,English" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/poster_20210316_230444.jpg",Documentary+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="MilitaryTimes" tvg-type="LIVE" tvg-genre="Education,Infotainment,Documentary,History,English" group-title="Infotainment" tvg-logo="https://a.jsrdn.com/hls/22930/militarytimes/poster_20240521_223349.png",MilitaryTimes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Sword & Shield" tvg-type="LIVE" tvg-genre="Entertainment,Infotainment,Documentary,Reality TV,Lifestyle,English" group-title="Infotainment" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22808/sword-1/poster_20200714_212032.jpg",Sword & Shield
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sword-1/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Titanic TV" tvg-type="LIVE" tvg-genre="Documentary,History,Infotainment,English" group-title="Infotainment" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/poster_20200717_232723.jpg",Titanic TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Everyday Heroes" tvg-type="LIVE" tvg-genre="Entertainment,Infotainment,Reality TV,English" group-title="Infotainment" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/everyday-heroes/poster_20191220_005902.jpg",Everyday Heroes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Jyotish Duniya" tvg-type="LIVE" tvg-genre="Lifestyle,Astrology,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23190/jyotish-duniya/poster_20240924_220343.jpg",Jyotish Duniya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Atmadarshan Tv" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Spirituality,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23215/atmadarshan-tv/poster_20250401_181522.jpg",Atmadarshan Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Garv Punjab Gurbani" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/garv-punjab-gurbani/poster_20210928_174326.jpg",Garv Punjab Gurbani
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Swar Shree" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/swar-shree/poster_20210928_174619.jpg",Swar Shree
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Hare Krsna" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/hare-krsna/poster_20211123_183252.jpg",Hare Krsna
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="SANMARG TV" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23191/sanmarg-tv/poster_20240910_205357.jpg",SANMARG TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sanmarg-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kalyan TV" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/kalyan-tv/poster_20231017_223758.jpg",Kalyan TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kalyan-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Kartavya TV" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/kartavya-tv/poster_20231017_223351.jpg",Kartavya TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kartavya-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Lakshya TV" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/22994/lakshya-tv/poster_20231017_222841.jpg",Lakshya TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lakshya-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bless TV" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23015/bless-tv/poster_20220126_191351.jpg",Bless TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Channel Divya" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23049/channel-divya/poster_20230711_170532.jpg",Channel Divya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Bhakthi Siri" tvg-type="LIVE" tvg-genre="Lifestyle,Devotional,Spirituality,Asian" group-title="Devotional" tvg-logo="https://a.jsrdn.com/hls/23215/bhakthi-siri/poster_20250401_190240.jpg",Bhakthi Siri
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="SoniCentric" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/poster_20240104_210850.png",SoniCentric
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="DroneTV" tvg-type="LIVE" tvg-genre="Travel,Nature,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="NatureStream.tv" tvg-type="LIVE" tvg-genre="Travel,Nature,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/poster_20250116_192327.jpg",NatureStream.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="NOMADslow tv" tvg-type="LIVE" tvg-genre="Lifestyle,Travel,Relaxation,Art,Music,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/poster_20250225_225157.jpg",NOMADslow tv
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Fireplace Lounge" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/poster_20220608_205108.png",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Relaxing Rain" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/poster_20220608_205342.png",Relaxing Rain
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Fish Tank" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/poster_20220608_205206.png",Fish Tank
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Island Escape" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/poster_20220608_205300.png",Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Tranquil Thunderstorms" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/poster_20220608_205517.png",Tranquil Thunderstorms
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Autumn Escape" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/poster_20220510_225205.jpg",Autumn Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Relaxing WinterScapes" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/poster_20220510_231127.jpg",Relaxing WinterScapes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Spring Escape" tvg-type="LIVE" tvg-genre="Travel,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/poster_20220510_231804.jpg",Spring Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Study Lounge" tvg-type="LIVE" tvg-genre="Music,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/poster_20220510_232147.jpg",Study Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Screendreams by Invincible" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,English" group-title="Relaxation Music" tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/poster_20201029_014045.jpg",Screendreams by Invincible
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mediacorp Entertainment – Tamil" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Action/Adventure,Lifestyle,Asian" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-tamil/poster_20240102_190221.jpg",Mediacorp Entertainment – Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Mediacorp Entertainment – English" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Action/Adventure,Lifestyle,Asian" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/poster_20240110_010825.jpg",Mediacorp Entertainment – English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="PNC Drama" tvg-type="LIVE" tvg-genre="Entertainment,Family/Children,Drama,Middle Eastern" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23137/pnc-drama/poster_20240521_224142.jpg",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Rotana Aflam+" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Middle Eastern" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23137/rotana-aflam-plus/poster_20231205_181838.jpg",Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="FEVA TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Lifestyle,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23132/feva-tv/poster_20231005_221514.png",FEVA TV
+https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="TidPix-Authentically African" tvg-type="LIVE" tvg-genre="Entertainment,Movies,TV Shows,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23178/tidpix/poster_20240627_212724.jpg",TidPix-Authentically African
+https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="KweliTV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Documentary,Lifestyle,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/poster_20200812_053207.jpg",KweliTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kwelitv/24-25-3009.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="AfroLandTV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Lifestyle,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/poster_20211020_185653.png",AfroLandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Afriwood Blockbuster" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23181/afriwood-blockbuster/poster_20220216_221844.jpg",Afriwood Blockbuster
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Cinema Hausa" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23181/cinema-hausa/poster_20220218_180535.jpg",Cinema Hausa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="True African" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Movies,Music Video,Sports,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23181/true-african/poster_20220218_180755.jpg",True African
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Nigbati TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,African" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/nigbati-tv/poster_20250109_233316.jpg",Nigbati TV
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="FLOU Detonación" tvg-type="LIVE" tvg-genre="Entertainment,Action/Adventure,Science Fiction,Horror,Mystery,Documentary,Thriller,Wrestling,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23085/flou-detonacion/poster_20250313_183746.jpg",FLOU Detonación
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-detonacion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Always Funny en Español" tvg-type="LIVE" tvg-genre="Entertainment,Comedy,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-en-espanol/poster_20240521_224022.png",Always Funny en Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Box Cinema" tvg-type="LIVE" tvg-genre="Entertainment,Action/Adventure,Drama,Mystery,Movies,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/poster_20250102_225526.jpg",Box Cinema
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Toon Goggles en Español" tvg-type="LIVE" tvg-genre="Entertainment,Animation & Anime,Family/Children,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/22882/toon-goggles-en-espanol/poster_20240322_201149.png",Toon Goggles en Español
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="GlewedTV Spanish" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/poster_20200917_223050.jpg",GlewedTV Spanish
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="El Conflicto TV" tvg-type="LIVE" tvg-genre="Entertainment,Movies,Drama,Action/Adventure,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/poster_20201029_012434.jpg",El Conflicto TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="WappTV" tvg-type="LIVE" tvg-genre="Entertainment,Lifestyle,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/poster_20210810_232447.png",WappTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="Life Style by Triptic" tvg-type="LIVE" tvg-genre="Lifestyle,Talk Show,Infotainment,Travel,Spanish" group-title="International Entertainment" tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/poster_20220517_183906.png",Life Style by Triptic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8
