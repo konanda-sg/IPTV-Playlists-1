@@ -1,0 +1,35 @@
+name:  Url 
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v3
+
+      - name: lrep
+        run: |
+          git clone --depth=1 "${{ secrets.URL }}" source-repo
+
+      - name:  files str
+        run: |
+          mkdir -p country
+          rsync -av --include='*/' --include='*.m3u' --exclude='*' source-repo/streams/ country/
+
+      - name: Count M3U files copied
+        run: |
+          echo "Total M3U files : $(find streams -type f -name '*.m3u' | wc -l)"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "AutoBot"
+          git config user.email "actions@github.com"
+          git add country
+          git diff --cached --quiet || git commit -m "Auto update M3U files (country structure)"
+          git push
