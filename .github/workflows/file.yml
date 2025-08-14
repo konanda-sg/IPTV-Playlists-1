@@ -8,26 +8,27 @@ on:
 jobs:
   S1:
     runs-on: ubuntu-latest
+    env:
+      X2: ${{ secrets.X2 }}
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Clone Secret Repo
         run: git clone --depth=1 "${{ secrets.XY }}" source_repo
 
-      - name: flles
+      - name: Copy .m3u Files
         run: |
-          X2="${{ secrets.X2 }}" 
           mkdir -p "$X2"
           rsync -a --include='*/' --include='*.m3u' --exclude='*' source_repo/X/ "$X2"/
 
-      - name: Count Files
+      - name: Count .m3u Files
         run: echo "✔ Count: $(find "$X2" -type f -name '*.m3u' | wc -l)"
 
-      - name: Commit & Push
+      - name: Commit & Push Changes
         run: |
           git config user.name "AB"
           git config user.email "ab@x.com"
           git add "$X2"
-          git diff --cached --quiet || git commit -m "U"
+          git diff --cached --quiet || git commit -m "Update .m3u files"
           git push
