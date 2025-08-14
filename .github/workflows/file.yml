@@ -17,7 +17,7 @@ jobs:
 
       - name: flles
         run: |
-          X2="${{ secrets.FOLDER }}" 
+          X2="${{ secrets.X2 }}" 
           mkdir -p "$X2"
           rsync -a --include='*/' --include='*.m3u' --exclude='*' source_repo/X/ "$X2"/
 
