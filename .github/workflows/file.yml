@@ -8,27 +8,29 @@ on:
 jobs:
   S1:
     runs-on: ubuntu-latest
-    env:
-      X2: ${{ secrets.X2 }}
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Clone Secret Repo
-        run: git clone --depth=1 "${{ secrets.XY }}" source_repo
-
-      - name: Copy .m3u Files
+      - name: Clone secret repo
         run: |
-          mkdir -p "$X2"
-          rsync -a --include='*/' --include='*.m3u' --exclude='*' source_repo/X/ "$X2"/
+          # Secret-based folder name
+          FOLDER=$(echo "${{ secrets.XY }}" | md5sum | cut -d' ' -f1)
+          git clone --depth=1 "${{ secrets.XY }}" "$FOLDER"
 
-      - name: Count .m3u Files
-        run: echo "✔ Count: $(find "$X2" -type f -name '*.m3u' | wc -l)"
+      - name: Copy M3U files
+        run: |
+          TARGET=$(echo "${{ secrets.XY }}" | sha1sum | cut -d' ' -f1)
+          mkdir -p "$TARGET"
+          rsync -a --include='*/' --include='*.m3u' --exclude='*' "$FOLDER"/streams/ "$TARGET"/
 
-      - name: Commit & Push Changes
+      - name: Count files
+        run: echo "Count: $(find "$TARGET" -type f -name '*.m3u' | wc -l)"
+
+      - name: Commit & push
         run: |
           git config user.name "AB"
           git config user.email "ab@x.com"
-          git add "$X2"
-          git diff --cached --quiet || git commit -m "Update .m3u files"
+          git add "$TARGET"
+          git diff --cached --quiet || git commit -m "U"
           git push
