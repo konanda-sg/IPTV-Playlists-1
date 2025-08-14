@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlMasarTV.ly",Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-id="FebruaryChannel.ly",February Channel (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" http-referrer="https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f",Libya Al Ahrar TV (1080p)
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
+https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly",Libya Al Wataniya (360p)
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="SalamTV.ly",Salam TV (1080p)
+https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
+#EXTINF:-1 tvg-id="TanasuhTV.ly",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="TanasuhTV.ly",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd
+#EXTINF:-1 tvg-id="TanasuhTV.ly",Tanasuh TV (1080p)
+https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WasatTV.ly" http-referrer="https://alwasat.ly/",Wasat TV (1080p)
+#EXTVLCOPT:http-referrer=https://alwasat.ly/
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FailArmy.us",Failarmy International
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GoUSATV.us",Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us",People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@India",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.in",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
